@@ -1,0 +1,1 @@
+import{t as e}from"./index-CP_hIMId.js";import{i as t,m as n,n as r,r as i,t as a,u as o}from"./contact-CXciStXZ.js";var s=e();function c(){return(0,s.jsxs)(`div`,{className:`bg-background pt-20`,children:[(0,s.jsx)(n,{}),(0,s.jsxs)(`main`,{children:[(0,s.jsx)(o,{}),(0,s.jsx)(r,{}),(0,s.jsx)(a,{})]}),(0,s.jsx)(i,{}),(0,s.jsx)(t,{})]})}export{c as component};
